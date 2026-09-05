@@ -74,6 +74,10 @@ An interactive Excel dashboard was created to provide a clear overview of Amazon
 
 ### Dashboard Visualizations
 
+![Amazon Sales Dashboard - Top](Amazon-Sales-Dashboard-Top.png)
+
+![Amazon Sales Dashboard - Bottom](Amazon-Sales-Dashboard-Bottom.png)
+
 - Total Sales by Category
 - Total Sales by Product
 - Sales by Customer Location
